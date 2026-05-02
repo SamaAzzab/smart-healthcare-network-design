@@ -55,16 +55,18 @@ Each department is assigned a dedicated VLAN and subnet to ensure security and e
 
 
 #### Successful Ping
-<img width="890" height="179" alt="image" src="https://github.com/user-attachments/assets/763bc772-638b-4c2b-ab57-89f301b7b6ae" />
-<img width="822" height="277" alt="image" src="https://github.com/user-attachments/assets/7a136235-c638-457e-957f-254907982c54" />
+<img width="822" height="277" alt="image" src="https://github.com/user-attachments/assets/83029c8b-c1a6-4db3-b42c-27de9317e8e8" />
+
 
 
 #### Failed Ping (Access Control / Misconfiguration Case)
-<img width="795" height="488" alt="image" src="https://github.com/user-attachments/assets/c98e5718-965a-404c-b9ab-70070de5eeca" />
+<img width="890" height="179" alt="image" src="https://github.com/user-attachments/assets/4265aa31-92aa-4a44-9a4e-3ee1f2fedf5a" />
+
 
 
 ### Running Configuration
-![Uploading image.png…]()
+<img width="795" height="488" alt="image" src="https://github.com/user-attachments/assets/85d53f13-9722-4010-a10e-86677864e1f5" />
+
 
 
 ## Key Learning Outcomes
