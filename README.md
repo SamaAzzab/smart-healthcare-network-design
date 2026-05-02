@@ -1,3 +1,4 @@
+<img width="1575" height="918" alt="image" src="https://github.com/user-attachments/assets/09f33d6a-a77a-4935-82f3-375a9d614116" />
 # Smart Healthcare Network Design
 
 ## Overview
@@ -34,31 +35,41 @@ Each department is assigned a dedicated VLAN and subnet to ensure security and e
 ## Screenshots
 
 ### Network Topology
-![Topology](screenshots/topology.png)
+<img width="1575" height="918" alt="image" src="https://github.com/user-attachments/assets/2f484940-08af-4c21-bb6d-e7311ebf3360" />
+
 
 ### VLAN Configuration
-![VLAN](screenshots/vlan-config.png)
+<img width="875" height="242" alt="image" src="https://github.com/user-attachments/assets/e00dcc4b-d4c4-4e0d-82aa-b67e900a8397" />
+
 
 ### Trunk Configuration
-![Trunk](screenshots/trunk-config.png)
+<img width="762" height="209" alt="image" src="https://github.com/user-attachments/assets/823c0994-ab05-47e3-8a33-2a90684e40d1" />
+
 
 ### IP Configuration
-![IP1](screenshots/ipconfig-1.png)
-![IP2](screenshots/ipconfig-2.png)
+<img width="887" height="211" alt="image" src="https://github.com/user-attachments/assets/148294e6-6044-44fd-97d5-7bf0aa71d4bc" />
+
 
 ### Routing Table
-![Routing](screenshots/routing-table.png)
+<img width="887" height="211" alt="image" src="https://github.com/user-attachments/assets/a464d94a-d1a6-48ee-ba61-bf76483712b5" />
+
 
 ### Connectivity Testing
+<img width="892" height="387" alt="image" src="https://github.com/user-attachments/assets/d2c3af3d-0ef6-4b2b-bcba-1ee0df1653b4" />
+
 
 #### Successful Ping
-![Ping Success](screenshots/ping-success.png)
+<img width="890" height="179" alt="image" src="https://github.com/user-attachments/assets/763bc772-638b-4c2b-ab57-89f301b7b6ae" />
+<img width="822" height="277" alt="image" src="https://github.com/user-attachments/assets/7a136235-c638-457e-957f-254907982c54" />
+
 
 #### Failed Ping (Access Control / Misconfiguration Case)
-![Ping Fail](screenshots/ping-failure.png)
+<img width="795" height="488" alt="image" src="https://github.com/user-attachments/assets/c98e5718-965a-404c-b9ab-70070de5eeca" />
+
 
 ### Running Configuration
-![Config](screenshots/running-config.png)
+![Uploading image.png…]()
+
 
 ## Key Learning Outcomes
 - Designed a secure multi-VLAN network architecture
