@@ -50,10 +50,6 @@ Each department is assigned a dedicated VLAN and subnet to ensure security and e
 <img width="887" height="211" alt="image" src="https://github.com/user-attachments/assets/148294e6-6044-44fd-97d5-7bf0aa71d4bc" />
 
 
-### Routing Table
-<img width="887" height="211" alt="image" src="https://github.com/user-attachments/assets/a464d94a-d1a6-48ee-ba61-bf76483712b5" />
-
-
 ### Connectivity Testing
 <img width="892" height="387" alt="image" src="https://github.com/user-attachments/assets/d2c3af3d-0ef6-4b2b-bcba-1ee0df1653b4" />
 
